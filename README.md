@@ -1,2 +1,3 @@
 # Lab-Antenna-Radiation-Characteristics-May-2025
 X-Band Horn Antenna Characterization – Gain, Radiation Pattern &amp; Power Density
+Characterized X-band horn antennas through microwave measurements at 9 and 12 GHz. Measured transmitted and received power using a microwave signal generator and spectrum analyzer, and estimated antenna gain using the Friis transmission equation. Analyzed E-plane and H-plane radiation patterns, half-power beamwidth, directivity, cross-polarization, power density, and electric field strength. Evaluated electromagnetic exposure levels and investigated the effects of antenna alignment and polarization on received power.
